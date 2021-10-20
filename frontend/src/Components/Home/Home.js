@@ -5,7 +5,7 @@ class Home extends React.Component {
     
     render() {
         return (<div>
-            <img src={Onl} height="240"/>
+            <img src={Onl} height="240" alt="ClasesOnline"/>
             <div> <a href="/Login">Iniciar Sesion</a>   <a href="/Registro">Registro</a></div>
         </div>)
     }

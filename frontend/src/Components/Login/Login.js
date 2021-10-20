@@ -24,7 +24,7 @@ class Login extends React.Component {
 
             <button type="submit" className="btn btn-primary btn-block">Iniciar Sesion</button>
             <p className="forgot-password text-right">
-                ¿Olvidó su <a href="#">password?</a>
+                ¿Olvidó su <label >password?</label>
             </p>
         </form>
         )
